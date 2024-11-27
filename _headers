@@ -3,3 +3,11 @@
   Cache-Control: no-cache, no-store, must-revalidate
   Pragma: no-cache
   Expires: 0
+  
+/index.html
+  Content-Encoding:
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/Build/TMADraft.loader.js
+  Content-Encoding:
+  Cache-Control: no-cache, no-store, must-revalidate
